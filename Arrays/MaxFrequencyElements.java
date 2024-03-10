@@ -19,7 +19,7 @@ So the number of elements in the array with maximum frequency is 4.
 class Solution {
     public int maxFrequencyElements(int[] nums) {
         
-        int frequency[] = new int[100];
+        int frequency[] = new int[102];
         //nums = [1,2,2,3,1,4]
          //maxFrequency: 0,1,2
         //count: 0,1,1,(2+2=4)
