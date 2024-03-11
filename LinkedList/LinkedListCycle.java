@@ -33,7 +33,6 @@ public class LinkedListCycle {
         ListNode first=head, second=head;
 
         //when first==second -- return true
-        if(first==second)
         //when second==null or second.next==null -- return false
         while(second!=null && second.next!=null)
         {
