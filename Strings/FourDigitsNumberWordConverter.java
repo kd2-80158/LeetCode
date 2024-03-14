@@ -1,4 +1,4 @@
-// package Strings;
+package Strings;
 
 public class FourDigitsNumberWordConverter {
     
